@@ -4,5 +4,5 @@ qr generator in nodejs (basic)
 *Install*:
 npm i qrcode
 
-Usague:
+**Usague**:
 node index.js
