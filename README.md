@@ -1,7 +1,7 @@
 # qr-generator
 qr generator in nodejs (basic)
 
-Install:
+*Install*:
 npm i qrcode
 
 Usague:
